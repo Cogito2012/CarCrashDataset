@@ -9,16 +9,16 @@ This repo contains our car crash dataset (CCD) for traffic accident anticipation
 
 <a name="overview"></a>
 ## :globe_with_meridians:  Overview 
-
-<img src="assets/CCD.png" 
-alt="RIT-18 Samples" width="600"/></a>
+<div align=center>
+  <img src="assets/CCD.png" alt="CCD Annotations" width="800"/>
+</div>
 
 Car Crash Dataset (CCD) is collected for traffic accident analysis. It contains real traffic accident videos captured by dashcam mounted on driving vehicles, which is critical to developing safety-guaranteed self-driving systems. CCD is distinguished from existing datasets for diversified accident annotations, including environmental attributes (day/night, snowy/rainy/good weather conditions), whether ego-vehicles involved, accident participants, and accident reason descriptions. An overview of our accident annotations are dipicted in the figure above.
 
 <a name="download"></a>
 ## :file_cabinet:  Download 
 
-Download from [Google Drive](https://drive.google.com/drive/folders/1ao-wCdQkWRYJMtWlDLPQEg9_y9d5K803?usp=sharing)
+Download CCD from [Google Drive](https://drive.google.com/drive/folders/1ao-wCdQkWRYJMtWlDLPQEg9_y9d5K803?usp=sharing).
 
 <a name="description"></a>
 ## :card_index_dividers:  Description
@@ -52,6 +52,11 @@ CarCrash
 │   └── Crash-1500.txt       # annotation file for crash accident
 └── README.txt
 ```
+
+### Videos and Features
+
+**Videos**: We collected traffic accident videos from YouTube channels and split them to get 1,500 trimmed videos. Each video contains 50 frames with 10 frames per second. The 3,000 normal videos are randomly sampled from [BDD100K dataset](https://bdd-data.berkeley.edu/index.html).
+
 
 ### Annotation Format
 
