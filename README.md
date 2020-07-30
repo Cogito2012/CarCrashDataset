@@ -94,4 +94,4 @@ Please cite our paper if you find our dataset useful.
 }
 ```
 
-If you have any questions about the dataset, please feel free to contact [Wentao Bao](mailto:wb6219@rit.edu).
+We thank [Haiting Hao](https://github.com/haohaiting) a lot for data collection. If you have any questions about the dataset, please feel free to contact [Wentao Bao](mailto:wb6219@rit.edu).
