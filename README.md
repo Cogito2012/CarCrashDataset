@@ -18,7 +18,7 @@ Car Crash Dataset (CCD) is collected for traffic accident analysis. It contains 
 <a name="download"></a>
 ## :file_cabinet:  Download 
 
-Download CCD from [Google Drive](https://drive.google.com/drive/folders/1ao-wCdQkWRYJMtWlDLPQEg9_y9d5K803?usp=sharing).
+Download CCD from [Google Drive](https://drive.google.com/drive/folders/1NUwC-bkka0-iPqhEhIgsXWtj0DA2MR-F?usp=sharing).
 
 <a name="description"></a>
 ## :card_index_dividers:  Description
